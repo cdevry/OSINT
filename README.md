@@ -9,6 +9,7 @@
 - https://start.me/p/m6XQ08/osint
 - https://start.me/p/aLBELX/tutorials
 
+###Others
 - https://plessas.net/tor2web-search
 - https://netbootcamp.org/trainingprogram/
 - https://osintframework.com/
