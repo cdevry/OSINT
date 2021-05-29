@@ -9,8 +9,39 @@
 - https://start.me/p/m6XQ08/osint
 - https://start.me/p/aLBELX/tutorials
 
-###Others
+### Others
 - https://plessas.net/tor2web-search
 - https://netbootcamp.org/trainingprogram/
 - https://osintframework.com/
+- https://backgroundchecks.org/justdeleteme/
+- https://www.accountkiller.com/en
+- https://www.safeshepherd.com/handbook/privacy-basics
+- https://www.optoutprescreen.com/?rf=t
+- https://robinlinus.github.io/socialmedia-leak/
+- https://www.privacytools.io/
+- https://coveryourtracks.eff.org/
+- https://inteltechniques.com/data/workbook.pdf
+- https://themanyhats.club/centralised-place-for-privacy-resources/
+- https://www.pexels.com/
+- https://randomuser.me/
 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
